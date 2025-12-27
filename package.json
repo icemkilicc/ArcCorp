@@ -1,0 +1,12 @@
+{
+  "name": "Arc_corp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix ArcCorp start",
+    "android": "npm --prefix ArcCorp run android",
+    "ios": "npm --prefix ArcCorp run ios",
+    "lint": "npm --prefix ArcCorp run lint",
+    "test": "npm --prefix ArcCorp run test"
+  }
+}
